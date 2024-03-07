@@ -3,6 +3,9 @@
 ## Introduction
 This project is a fun and interactive number guessing game controlled using an IR (Infrared) remote. It's built with a C++ program, utilizing hardware components like an Arduino, an IR receiver, and an LCD display. Players try to guess a randomly generated number within a certain range, receiving hints via the LCD display based on their input.
 
+![Screenshot 2024-03-06 174233](https://github.com/EliezerLourenco/code-cracker-IR/assets/112527826/b356d8b5-4ab5-489f-8d56-c8e93c9ce193)
+
+
 ## Features
 - **IR Remote Control**: Play the game comfortably from a distance using any IR remote.
 - **LCD Feedback**: Immediate feedback on guesses with instructions on whether to guess higher or lower.
